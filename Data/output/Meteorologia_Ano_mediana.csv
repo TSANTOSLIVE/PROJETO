@@ -15,3 +15,4 @@ Ano,Arquivo,Precipitacao,PressaoAtmEstacao,PressaoAtmMax,PressaoAtmMin,RadiacaoG
 2020,../Data/input/Meteorologia/Bento Goncalves/INMET_S_RS_A840_BENTO GONCALVES_01-01-2020_A_31-12-2020.csv,0.8,944.5,944.7,944.2,1065.5,17.85,12.4,18.4,17.4,12.9,11.9,78.0,73.0,75.0,109.0,6.4,2.7
 2021,../Data/input/Meteorologia/Bento Goncalves/INMET_S_RS_A840_BENTO GONCALVES_01-01-2021_A_31-12-2021.csv,0.8,944.4,944.6,944.1,1105.2,17.7,12.95,18.2,17.2,13.5,12.5,81.0,76.0,78.0,109.0,6.2,2.6
 2022,../Data/input/Meteorologia/Bento Goncalves/INMET_S_RS_A840_BENTO GONCALVES_01-01-2022_A_31-12-2022.csv,0.6,943.8,944.1,943.6,1018.6,17.2,12.7,17.7,16.7,13.2,12.3,81.0,76.0,79.0,111.0,6.4,2.7
+2023,../Data/input/Meteorologia/Bento Goncalves/INMET_S_RS_A840_BENTO GONCALVES_01-01-2023_A_31-12-2023.csv,0.8,943.9,944.2,943.7,958.7,18.4,14.4,18.9,18.0,14.9,14.0,82.0,78.0,80.0,103.0,6.2,2.6
